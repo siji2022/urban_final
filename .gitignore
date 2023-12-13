@@ -1,0 +1,6 @@
+__pycache__
+.ipython
+.git
+.vscode
+.ipynb_checkpoints
+/models   
